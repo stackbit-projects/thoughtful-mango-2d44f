@@ -92,7 +92,7 @@
         "tertiary_nav_title": "Contact",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Contact us",
                 "url": "/terms-conditions",
                 "style": "link"
             },
