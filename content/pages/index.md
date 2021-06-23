@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Fantasy
-    subtitle: Optional hero section subtitle
+    subtitle: Our new upcoming Dapp launch
     content: >-
       The power or process of creating especially unrealistic or improbable mental images in response to psychological need. Well what if I told you that now you can make your wildest fantasies become reality!
     actions:
