@@ -173,7 +173,7 @@ sections:
       one week) to collect your BNB reward.
     actions:
       - label: Learn More
-        url: /features
+        url: /whitepaper
         style: secondary
     actions_position: right
     actions_width: fourty
