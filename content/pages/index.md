@@ -88,7 +88,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: We Aim for Transparency
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: 'Be a part of the journey'
         content: >-
           Fantasy aims to implement a burn strategy that is beneficial and rewarding for those engaged for the long term. Furthermore, the total number of $FSY burned will be featured on our readout located on the website, allowing for further transparency in identifying the current circulating supply at any given point in time.
         actions:
