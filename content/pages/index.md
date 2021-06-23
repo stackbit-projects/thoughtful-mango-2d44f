@@ -57,7 +57,7 @@ sections:
     title: Earn $BNB by holding $FSY
     subtitle: Build Your Portfolio
     features:
-      - title: The Big Title For the Feature
+      - title: Benefits of holding Fantasy
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           After you purchase $FSY you will automatically receive $FSY tokens in your wallet (2% of every transaction is taken and re-distributed to all $FSY holders, 2% of every transaction is taken and re-distributed to all $FSY holders. The burn address is also a holder; thus each transaction helps deflate the supply.)
