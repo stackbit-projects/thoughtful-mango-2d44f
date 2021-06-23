@@ -18,10 +18,9 @@ sections:
         media_width: fifty
       - title: Phase 2
         subtitle: 'CoinMarketCap, CoinGecko & Blockfolio listing'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          TechRate audit. 10.000 holders. Onboarding our first model. Website v2
+          Launch
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
