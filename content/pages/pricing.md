@@ -23,39 +23,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: grid_section
-    grid_items:
-      - title: Premium
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
-        content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    align: center
-  - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
