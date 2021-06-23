@@ -188,6 +188,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: /images/hot1.jpg
   - type: cta_section
     title: There will be an NFT marketplace exclusive for Fantasy users!
     content: >+
