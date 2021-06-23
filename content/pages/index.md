@@ -123,10 +123,7 @@ sections:
       - title: Phase 1
         title_align: left
         content: >-
-          Website and social media channels launch. Marketing & partnership with influencers.Private seed sale
-presale
-Pancakeswap launch
-Partnership rollout
+          Website and social media channels launch. Marketing & partnership with influencers.Private seed sale and presale. Pancakeswap launch. Partnership rollout
         content_align: left
         actions:
           - label: Learn More
