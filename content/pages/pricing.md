@@ -8,7 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: lor
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
