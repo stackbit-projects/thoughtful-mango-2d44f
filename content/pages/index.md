@@ -159,9 +159,7 @@ sections:
       - title: Phase 3
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Release our own adult platform. Disrupt the adult industry online. Onboarding 20+ models. Advanced marketing. Fantasy Mobile App
         content_align: left
         actions:
           - label: Learn More
