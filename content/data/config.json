@@ -54,7 +54,7 @@
         "secondary_nav_links": [
             {
                 "label": "About us",
-                "url": "/contact",
+                "url": "/about",
                 "style": "link"
             },
             {
