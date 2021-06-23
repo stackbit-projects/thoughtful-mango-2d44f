@@ -13,7 +13,7 @@ sections:
         url: /whitepaper
         style: primary
       - label: Learn More
-        url: /features
+        url: /tokenomics
         style: secondary
     image: /images/classic/hero.png
     image_alt: Hero section placeholder image
