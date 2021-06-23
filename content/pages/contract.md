@@ -6,7 +6,7 @@ sections:
     subtitle: Contract 1.0
     align: center
     background_color: secondary
-    background_image_opacity: 50
+    background_image_opacity: 40
     background_image: /images/hot7.jpg
   - type: features_section
     features:
