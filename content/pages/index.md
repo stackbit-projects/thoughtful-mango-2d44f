@@ -196,9 +196,8 @@ sections:
   - type: cta_section
     title: Collect $BNB by accessing our Dapp (soon will be live).
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      4% of every transaction is taken and re-distributed to all $FSY holders in $BNB. You will have to wait for a specific duration called cycle (about one week) to collect your BNB reward.
+
     actions:
       - label: Learn More
         url: /features
