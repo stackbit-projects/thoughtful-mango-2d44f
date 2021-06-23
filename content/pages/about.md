@@ -10,10 +10,9 @@ sections:
     features:
       - title: View on Github
         subtitle: Fantasy token is a moonery fork and MIT
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          For developers that want to read the smart contract you can simple
+          follow this [Github link](https://github.com/noobmasterpr).
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
