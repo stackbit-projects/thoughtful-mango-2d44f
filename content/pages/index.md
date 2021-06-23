@@ -119,7 +119,7 @@ sections:
           “The power or process of creating especially unrealistic or improbable
           mental images in response to psychological need!”
         subtitle: Here at Fantasy you have the ability to do just that.
-        image: /images/fantasy4.png
+        image: /images/classic/feature-3.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
