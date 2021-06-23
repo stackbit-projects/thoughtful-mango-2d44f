@@ -49,7 +49,6 @@ export default {
     ActionIcon,
     ActionLink,
     Announcement,
-    BlogFeedSection,
     BlogPostAuthor,
     BlogPostCategories,
     BlogPostTags,
