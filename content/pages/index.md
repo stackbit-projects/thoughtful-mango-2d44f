@@ -31,6 +31,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/hot3.jpg
+    background_image_opacity: 50
   - type: features_section
     title: Earn $BNB by holding $FSY
     subtitle: Build Your Portfolio
