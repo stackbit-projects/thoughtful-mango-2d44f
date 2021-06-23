@@ -2,7 +2,6 @@
 title: Pricing
 sections:
   - type: hero_section
-    subtitle: Fantasy 1.0
     align: center
     padding_top: large
     padding_bottom: small
