@@ -42,7 +42,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Want to know more?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      We've explained the whole concept in our whitepaper, take a look.
     actions:
       - label: Compare Plans
         url: /pricing
