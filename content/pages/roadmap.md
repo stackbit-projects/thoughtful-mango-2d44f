@@ -5,6 +5,7 @@ sections:
     title: Our Roadmap
     subtitle: Fantasy Token 1.0
     background_color: primary
+    background_image: /images/hot1.jpg
   - type: features_section
     features:
       - title: Phase 1
