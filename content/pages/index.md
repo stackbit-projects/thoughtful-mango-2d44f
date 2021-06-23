@@ -37,7 +37,7 @@ sections:
           transaction helps deflate the supply.)
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /roadmap
             style: primary
             has_icon: true
             icon: arrow-right
