@@ -162,6 +162,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://thoughtful-mango-2d44f.netlify.app",
+    "domain": "https://.netlify.app",
     "favicon": "/images/modern-tomato.png"
 }
