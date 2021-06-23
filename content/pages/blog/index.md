@@ -24,7 +24,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - type: form_section
-    title: Inline Form
+    title: Want to find out more?
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
