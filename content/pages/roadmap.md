@@ -54,6 +54,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_image: /images/hot2.jpg
 seo:
   title: Features
   description: This is the features page
