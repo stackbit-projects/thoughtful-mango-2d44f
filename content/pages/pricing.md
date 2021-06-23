@@ -2,7 +2,6 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Tokenomics
     subtitle: Fantasy 1.0
     align: center
     padding_top: large
