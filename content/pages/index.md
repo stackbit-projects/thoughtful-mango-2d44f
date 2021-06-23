@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Technology we use
-    subtitle: Grid Section Example
+    subtitle: Our development philosophy
     align: center
     grid_items:
       - image: images/logo-1.svg
