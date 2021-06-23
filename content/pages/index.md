@@ -74,9 +74,8 @@ sections:
         media_width: fifty
       - title: We do Burn!
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We will burn 45% of FSY. Having burns controlled by the team and promotion based on achievements helps keep the community rewarded and informed. The conditions of the manual burn and the amounts can be advertised and tracked. 
+
         actions:
           - label: Learn More
             url: /style-guide
