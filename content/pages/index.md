@@ -105,7 +105,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image: /images/hot2.jpg
-    background_image_opacity: 10
+    background_image_opacity: 1
   - type: grid_section
     title: Our Road Map
     subtitle: What We Up To
