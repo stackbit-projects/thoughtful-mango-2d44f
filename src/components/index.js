@@ -25,7 +25,6 @@ export {
     ActionIcon,
     ActionLink,
     Announcement,
-    BlogFeedSection,
     BlogPostAuthor,
     BlogPostCategories,
     BlogPostTags,
