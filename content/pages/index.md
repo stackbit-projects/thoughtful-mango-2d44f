@@ -127,7 +127,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Road Map
-    subtitle: Check what we up to
+    subtitle: What We Up To
     grid_items:
       - title: Phase 1
         title_align: left
