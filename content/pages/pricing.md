@@ -31,7 +31,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
