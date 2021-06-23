@@ -23,12 +23,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Contract",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Whitepaper",
                 "url": "/blog",
                 "style": "link"
             },
