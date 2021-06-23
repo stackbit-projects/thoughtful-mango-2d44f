@@ -141,7 +141,7 @@ sections:
       - title: Phase 2
         title_align: left
         content: >-
-          CoinMarketCap, CoinGecko & Blockfolio listing. TechRate audit. 10.000 holders.Onboarding our first model. Website v2 Launch
+          CoinMarketCap, CoinGecko & Blockfolio listing. TechRate audit. 10.000 holders.Onboarding our first model. Website v2 Launch.
         content_align: left
         actions:
           - label: Learn More
