@@ -109,7 +109,7 @@ sections:
     features:
       - title: >-
           “The power or process of creating especially unrealistic or improbable mental images in response to psychological need!”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Here at Fantasy you have the ability to do just that.'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
