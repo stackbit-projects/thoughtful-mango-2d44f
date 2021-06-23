@@ -45,7 +45,7 @@ sections:
     content: |
       We've explained the whole concept in our whitepaper, take a look.
     actions:
-      - label: Compare Plans
+      - label: Fantasy Whitepaper 1.0
         url: /pricing
         style: primary
     actions_position: right
