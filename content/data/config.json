@@ -100,7 +100,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Contact us",
-                "url": "/terms-conditions",
+                "url": "/contact",
                 "style": "link"
             },
             {
