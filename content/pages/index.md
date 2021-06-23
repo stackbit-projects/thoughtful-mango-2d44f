@@ -15,7 +15,7 @@ sections:
       - label: Learn More
         url: /tokenomics
         style: secondary
-    image: /images/hot5.jpg
+    image: /images/hot10.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
