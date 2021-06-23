@@ -9,18 +9,12 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
+    content: >
       ## Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      If you don't want to use the form box, you can simple send us an email at:
+      fantasyofficial@pm.me
     content_align: left
     form_position: right
     form_width: fifty
