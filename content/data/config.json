@@ -91,7 +91,7 @@
             },
             {
                 "label": "About us",
-                "url": "/blog/category/tutoria",
+                "url": "/about",
                 "style": "link"
             }
         ],
