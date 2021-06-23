@@ -5,7 +5,9 @@ sections:
     title: Welcome to Fantasy
     subtitle: Our new upcoming Dapp launch
     content: >-
-      The power or process of creating especially unrealistic or improbable mental images in response to psychological need. Well what if I told you that now you can make your wildest fantasies become reality!
+      The power or process of creating especially unrealistic or improbable
+      mental images in response to psychological need. Well what if I told you
+      that now you can make your wildest fantasies become reality!
     actions:
       - label: Whitepaper
         url: /pricing
@@ -44,8 +46,7 @@ sections:
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
+      - image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
         image_alt: Git logo
@@ -60,7 +61,11 @@ sections:
       - title: Benefits of holding Fantasy
         subtitle: 'Join journey this WILL be a WILD one! '
         content: >-
-          After you purchase $FSY you will automatically receive $FSY tokens in your wallet (2% of every transaction is taken and re-distributed to all $FSY holders, 2% of every transaction is taken and re-distributed to all $FSY holders. The burn address is also a holder; thus each transaction helps deflate the supply.)
+          After you purchase $FSY you will automatically receive $FSY tokens in
+          your wallet (2% of every transaction is taken and re-distributed to
+          all $FSY holders, 2% of every transaction is taken and re-distributed
+          to all $FSY holders. The burn address is also a holder; thus each
+          transaction helps deflate the supply.)
         actions:
           - label: Learn More
             url: /style-guide
@@ -74,8 +79,10 @@ sections:
         media_width: fifty
       - title: We do Burn!
         content: >-
-          We will burn 45% of FSY. Having burns controlled by the team and promotion based on achievements helps keep the community rewarded and informed. The conditions of the manual burn and the amounts can be advertised and tracked. 
-
+          We will burn 45% of FSY. Having burns controlled by the team and
+          promotion based on achievements helps keep the community rewarded and
+          informed. The conditions of the manual burn and the amounts can be
+          advertised and tracked. 
         actions:
           - label: Learn More
             url: /style-guide
@@ -88,9 +95,13 @@ sections:
         media_position: left
         media_width: fifty
       - title: We Aim for Transparency
-        subtitle: 'Be a part of the journey'
+        subtitle: Be a part of the journey
         content: >-
-          Fantasy aims to implement a burn strategy that is beneficial and rewarding for those engaged for the long term. Furthermore, the total number of $FSY burned will be featured on our readout located on the website, allowing for further transparency in identifying the current circulating supply at any given point in time.
+          Fantasy aims to implement a burn strategy that is beneficial and
+          rewarding for those engaged for the long term. Furthermore, the total
+          number of $FSY burned will be featured on our readout located on the
+          website, allowing for further transparency in identifying the current
+          circulating supply at any given point in time.
         actions:
           - label: Learn More
             url: /style-guide
@@ -108,8 +119,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “The power or process of creating especially unrealistic or improbable mental images in response to psychological need!”
-        subtitle: 'Here at Fantasy you have the ability to do just that.'
+          “The power or process of creating especially unrealistic or improbable
+          mental images in response to psychological need!”
+        subtitle: Here at Fantasy you have the ability to do just that.
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
@@ -123,7 +135,9 @@ sections:
       - title: Phase 1
         title_align: left
         content: >-
-          Website and social media channels launch. Marketing & partnership with influencers.Private seed sale and presale. Pancakeswap launch. Partnership rollout.
+          Website and social media channels launch. Marketing & partnership with
+          influencers.Private seed sale and presale. Pancakeswap launch.
+          Partnership rollout.
         content_align: left
         actions:
           - label: Learn More
@@ -141,7 +155,8 @@ sections:
       - title: Phase 2
         title_align: left
         content: >-
-          CoinMarketCap, CoinGecko & Blockfolio listing. TechRate audit. 10.000 holders.Onboarding our first model. Website v2 Launch.
+          CoinMarketCap, CoinGecko & Blockfolio listing. TechRate audit. 10.000
+          holders.Onboarding our first model. Website v2 Launch.
         content_align: left
         actions:
           - label: Learn More
@@ -159,7 +174,8 @@ sections:
       - title: Phase 3
         title_align: left
         content: >-
-          Release our own adult platform. Disrupt the adult industry online. Onboarding 20+ models. Advanced marketing. Fantasy Mobile App
+          Release our own adult platform. Disrupt the adult industry online.
+          Onboarding 20+ models. Advanced marketing. Fantasy Mobile App
         content_align: left
         actions:
           - label: Learn More
