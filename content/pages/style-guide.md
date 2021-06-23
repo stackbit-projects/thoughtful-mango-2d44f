@@ -25,8 +25,6 @@ seo:
         content
 layout: page
 ---
-## About Fantasy
-
 The power or process of creating especially unrealistic or improbable mental images in response to psychological need. Well, what if I told you that now you can make your wildest fantasies become reality!
 
 Here at Fantasy, you have the ability to do just that. We are a network that brings everyone together from all over the world where people can express themselves in any way, shape, or form. If you wish to see a blond girl jump in a bathtub filled with chocolate then you can for the right price. 
