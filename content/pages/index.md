@@ -194,7 +194,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Collect $BNB by accessing the dashboard page (will be listed here when live).
+    title: Collect $BNB by accessing the dashboard page (soon will be live).
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
