@@ -102,11 +102,6 @@
                 "label": "Contact us",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
             }
         ],
         "has_social": true,
