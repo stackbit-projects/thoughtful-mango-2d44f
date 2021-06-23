@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Contact our team
-    subtitle: The optional subtitle
+    subtitle: Feel free to message us via email or contact form
     align: center
     padding_top: medium
     padding_bottom: medium
