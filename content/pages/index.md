@@ -217,7 +217,7 @@ sections:
       revolutionary mechanism to the BSC ecosystem: Earn $BNB by holding $FSY
       token
     actions:
-      - label: Contact us
+      - label: Questions? Contact us
         url: /pricing
         style: primary
     actions_position: bottom
