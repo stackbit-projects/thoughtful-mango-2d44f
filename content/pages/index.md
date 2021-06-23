@@ -10,7 +10,7 @@ sections:
       that now you can make your wildest fantasies become reality!
     actions:
       - label: Whitepaper
-        url: /pricing
+        url: /whitepaper
         style: primary
       - label: Learn More
         url: /features
