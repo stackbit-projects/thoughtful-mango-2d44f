@@ -194,7 +194,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: You can collect $BNB by accessing the dashboard page (will be listed here when live).
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
