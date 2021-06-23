@@ -12,7 +12,7 @@ sections:
         content: >
           Marketing & partnership with influencers. Private seed sale and
           presale. Pancakeswap launch. Partnership rollout
-        image: images/about-3.jpg
+        image: /images/about-2.jpg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
