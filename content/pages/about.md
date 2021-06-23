@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Fantasy Smart Contract
-    subtitle: About Page Demo
+    subtitle: Contract 1.0
     align: center
     background_color: secondary
   - type: features_section
