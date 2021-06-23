@@ -9,27 +9,6 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### $9
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-        content_align: left
-        actions:
-          - label: Start with Personal
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Premium
         subtitle: Optional subtitle
         title_align: left
