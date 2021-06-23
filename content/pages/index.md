@@ -5,6 +5,11 @@ sections:
     title: Welcome to Fantasy
     subtitle: Our new upcoming Dapp launch
     content: >
+      On our website and app (near future) we will be setting up pages where you
+      may list ads totally for free where you maybe be offering an online
+      service or maybe looking for an online service.
+
+
       You will be able to negotiate the price of the service and when both
       parties have agreed then the contract between both parties will be made.
       You will be able to pay directly through our system at no cost using our
