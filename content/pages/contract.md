@@ -33,6 +33,7 @@ sections:
     has_border: false
     background_color: primary
     background_image: /images/hot8.jpg
+    background_image_opacity: 50
 seo:
   title: About
   description: This is the about us page
