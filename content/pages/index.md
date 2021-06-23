@@ -31,11 +31,10 @@ sections:
     features:
       - title: Benefits of holding Fantasy
         subtitle: 'Join journey this WILL be a WILD one! '
-        content: >-
+        content: >
           After you purchase $FSY you will automatically receive $FSY tokens in
           your wallet (2% of every transaction is taken and re-distributed to
-          all $FSY holders, 2% of every transaction is taken and re-distributed
-          to all $FSY holders. The burn address is also a holder; thus each
+          all $FSY holders. The burn address is also a holder; thus each
           transaction helps deflate the supply.)
         actions:
           - label: Learn More
