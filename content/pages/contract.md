@@ -6,6 +6,7 @@ sections:
     subtitle: Contract 1.0
     align: center
     background_color: secondary
+    background_image_opacity: 50
   - type: features_section
     features:
       - title: View on Github
