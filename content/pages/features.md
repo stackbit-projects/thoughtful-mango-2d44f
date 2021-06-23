@@ -29,7 +29,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Phase 3
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Release our own adult platform
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
