@@ -1,10 +1,6 @@
 ---
 title: Tokenomics
 sections:
-  - type: hero_section
-    align: center
-    padding_top: large
-    padding_bottom: small
   - section_id: lorem-ipsum
     features:
       - content: "# Tokenomics\n\n##### Fantasy 1.0\n\n5% - distributed to top creators\_ who use fantasy platform it will be based on perks\n\n0.8% - Team\_\n\n30%\_ - Presale\n\n8%\_ - Seed sale\n\n5% - Marketing\_\n\n1%\_ - Distributed to fantasy users\_\n\n45%\_ - Burn\n"
