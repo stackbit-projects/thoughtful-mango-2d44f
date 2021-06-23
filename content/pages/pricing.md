@@ -13,9 +13,6 @@ sections:
       - content: "##\n\n*   5% - distributed to top creators\_ who use fantasy platform it will be based on perks\n\n*   0.8% - Team\_\n\n*   30%\_ - Presale\n\n*   8%\_ - Seed sale\n\n*   5% - Marketing\_\n\n*   1%\_ - Distributed to fantasy users\_\n\n*   45%\_ - Burn\n"
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
