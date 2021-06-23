@@ -211,10 +211,11 @@ sections:
     background_color: primary
   - type: cta_section
     title: There will be an NFT marketplace exclusive for Fantasy users!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      The $FSY token has three functions that occur during each trade:
+      Reflection, LP Acquisition, and Burn. FANTASY brings the most
+      revolutionary mechanism to the BSC ecosystem: Earn $BNB by holding $FSY
+      token
     actions:
       - label: Contact us
         url: /pricing
