@@ -67,7 +67,7 @@
         "primary_nav_links": [
             {
                 "label": "Road Map",
-                "url": "/about",
+                "url": "/roadmap",
                 "style": "link"
             },
             {
