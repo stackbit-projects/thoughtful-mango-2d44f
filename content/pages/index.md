@@ -90,9 +90,7 @@ sections:
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Fantasy aims to implement a burn strategy that is beneficial and rewarding for those engaged for the long term. Furthermore, the total number of $FSY burned will be featured on our readout located on the website, allowing for further transparency in identifying the current circulating supply at any given point in time
         actions:
           - label: Learn More
             url: /style-guide
