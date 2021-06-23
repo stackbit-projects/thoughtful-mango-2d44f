@@ -108,8 +108,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “The power or process of creating especially unrealistic or improbable mental images in response to psychological need. Well what if I told you that now you can make your wildest fantasies become reality!”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
