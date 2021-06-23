@@ -34,7 +34,7 @@ sections:
         content: >
           Disrupt the adult industry online. Onboarding 20+ models. Advanced
           marketing. Fantasy Mobile App
-        image: images/about-1.jpg
+        image: /images/about-3.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
