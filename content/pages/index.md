@@ -190,7 +190,7 @@ sections:
       token
     actions:
       - label: Questions? Contact us
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
