@@ -156,7 +156,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Phase 3
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
