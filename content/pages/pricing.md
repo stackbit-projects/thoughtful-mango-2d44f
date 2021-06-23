@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: "5.2% -liquidity pool\_5% - distributed to top creators\_ who use fantasy platform it will be based on perks0.8% - Team\_30%\_ - Presale8%\_ - Seed sale5% - Marketing\_1%\_ - Distributed to fantasy users\_45%\_ - Burn"
     features: []
     feature_padding_vert: medium
     align: center
