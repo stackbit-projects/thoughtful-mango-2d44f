@@ -59,7 +59,7 @@
         "primary_nav_title": "Fantasy",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Road Map",
                 "url": "/about",
                 "style": "link"
             },
