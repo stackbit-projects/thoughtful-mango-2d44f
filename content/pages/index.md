@@ -15,7 +15,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/fantasy2.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -196,8 +196,9 @@ sections:
   - type: cta_section
     title: Collect $BNB by accessing our Dapp (soon will be live).
     content: >-
-      4% of every transaction is taken and re-distributed to all $FSY holders in $BNB. You will have to wait for a specific duration called cycle (about one week) to collect your BNB reward.
-
+      4% of every transaction is taken and re-distributed to all $FSY holders in
+      $BNB. You will have to wait for a specific duration called cycle (about
+      one week) to collect your BNB reward.
     actions:
       - label: Learn More
         url: /features
