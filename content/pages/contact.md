@@ -13,7 +13,7 @@ sections:
       ## Privacy
 
 
-      If you don't want to use the form box, you can simple send us an email at:
+      If you don't want to use the form box, you can simply send us an email at:
       fantasyofficial@pm.me
     content_align: left
     form_position: right
