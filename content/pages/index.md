@@ -58,8 +58,7 @@ sections:
     subtitle: Build Your Portfolio
     features:
       - title: Benefits of holding Fantasy
-        subtitle: 'Join us on our journey. Because this WILL be a WILD one!
- '
+        subtitle: 'Join us on our journey. Because this WILL be a WILD one! '
         content: >-
           After you purchase $FSY you will automatically receive $FSY tokens in your wallet (2% of every transaction is taken and re-distributed to all $FSY holders, 2% of every transaction is taken and re-distributed to all $FSY holders. The burn address is also a holder; thus each transaction helps deflate the supply.)
         actions:
