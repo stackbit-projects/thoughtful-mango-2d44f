@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Tokenomics
 sections:
   - type: hero_section
     align: center
