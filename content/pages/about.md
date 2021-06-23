@@ -23,7 +23,7 @@ sections:
     content: |
       Check out our Fantasy Whitepaper 1.0
     actions:
-      - label: Compare Plans
+      - label: Check Whitepaper
         url: /pricing
         style: primary
     align: center
