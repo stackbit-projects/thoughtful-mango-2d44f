@@ -73,7 +73,7 @@ sections:
           circulating supply at any given point in time.
         actions:
           - label: Learn More
-            url: /
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
