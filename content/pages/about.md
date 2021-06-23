@@ -23,7 +23,7 @@ sections:
       Check out our Fantasy Whitepaper 1.0
     actions:
       - label: Check Whitepaper
-        url: /pricing
+        url: /whitepaper
         style: primary
     align: center
     padding_top: medium
