@@ -54,7 +54,7 @@ sections:
           advertised and tracked. 
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /tokenomics
             style: primary
             has_icon: true
             icon: arrow-right
