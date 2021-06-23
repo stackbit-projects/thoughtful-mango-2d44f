@@ -22,7 +22,7 @@ sections:
       - label: Learn More
         url: /tokenomics
         style: secondary
-    image: /images/classic/hero.png
+    image: /images/fantasy8.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
