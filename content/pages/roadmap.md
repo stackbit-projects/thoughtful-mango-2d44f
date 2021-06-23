@@ -44,7 +44,7 @@ sections:
       We've explained the whole concept in our whitepaper, take a look.
     actions:
       - label: Fantasy Whitepaper 1.0
-        url: /pricing
+        url: /whitepaper
         style: primary
     actions_position: right
     align: left
