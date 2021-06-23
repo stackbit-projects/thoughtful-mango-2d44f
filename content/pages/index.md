@@ -7,7 +7,7 @@ sections:
     content: >-
       The power or process of creating especially unrealistic or improbable mental images in response to psychological need. Well what if I told you that now you can make your wildest fantasies become reality!
     actions:
-      - label: Try Free
+      - label: Whitepaper
         url: /pricing
         style: primary
       - label: Learn More
