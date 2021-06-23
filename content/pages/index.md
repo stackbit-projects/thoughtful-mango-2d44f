@@ -127,7 +127,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Road Map
-    subtitle: Grid Section Example
+    subtitle: Check what we up to
     grid_items:
       - title: Phase 1
         title_align: left
