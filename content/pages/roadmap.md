@@ -55,6 +55,7 @@ sections:
     has_border: false
     background_color: primary
     background_image: /images/hot2.jpg
+    background_image_opacity: 50
 seo:
   title: Features
   description: This is the features page
