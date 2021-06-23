@@ -43,11 +43,6 @@
                 "label": "Whitepaper",
                 "url": "/whitepaper",
                 "style": "link"
-            },
-            {
-                "label": "About Us",
-                "url": "/about",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
