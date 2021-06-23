@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Our Roadmap
-    subtitle: Features Page Demo
+    subtitle: Fantasy Token 1.0
     background_color: primary
   - type: features_section
     features:
