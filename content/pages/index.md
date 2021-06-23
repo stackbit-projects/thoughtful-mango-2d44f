@@ -123,9 +123,10 @@ sections:
       - title: Phase 1
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Website and social media channels launch. Marketing & partnership with influencers.Private seed sale
+presale
+Pancakeswap launch
+Partnership rollout
         content_align: left
         actions:
           - label: Learn More
