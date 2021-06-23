@@ -20,7 +20,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Want to know more?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Check out our Fantasy Whitepaper 1.0
     actions:
       - label: Compare Plans
         url: /pricing
