@@ -9,8 +9,7 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - title: Phase 3
-        image_alt: Happy co-workers
+      - image_alt: Happy co-workers
         media_position: right
         media_width: fifty
         image: /images/beige-bee.jpg
