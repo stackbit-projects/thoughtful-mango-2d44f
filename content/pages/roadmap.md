@@ -9,15 +9,6 @@ sections:
     background_image_opacity: 50
   - type: features_section
     features:
-      - title: Phase 1
-        subtitle: Website and social media channels launch
-        content: >
-          Marketing & partnership with influencers. Private seed sale and
-          presale. Pancakeswap launch. Partnership rollout
-        image: /images/about-2.jpg
-        image_alt: Top view of business meeting
-        media_position: right
-        media_width: fifty
       - title: Phase 3
         subtitle: Release our own adult platform
         content: >
