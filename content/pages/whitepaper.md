@@ -39,7 +39,6 @@ sections:
   - section_id: lorem-ipsum
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           ![](/\_static/app-assets/images/energetic-lavender.jpg)![](/\_static/app-assets/images/0005.jpg)![](/\_static/app-assets/images/0006.jpg)![](/\_static/app-assets/images/0007.jpg)![](/\_static/app-assets/images/0008.jpg)![](/\_static/app-assets/images/0009.jpg)![](/\_static/app-assets/images/0010.jpg)![](/\_static/app-assets/images/smiling-basil.jpg)
         actions: []
