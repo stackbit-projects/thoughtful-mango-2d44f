@@ -17,6 +17,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+        image: /images/beige-bee.jpg
   - type: cta_section
     title: Want to know more?
     content: |
