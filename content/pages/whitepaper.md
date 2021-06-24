@@ -150,7 +150,6 @@ sections:
     type: features_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
