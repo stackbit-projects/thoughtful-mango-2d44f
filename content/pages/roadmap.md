@@ -18,19 +18,6 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: Phase 2
-        subtitle: 'CoinMarketCap, CoinGecko & Blockfolio listing'
-        content: >
-          TechRate audit. 10.000 holders. Onboarding our first model. Website v2
-          Launch
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/pA2SZmqZeRc" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: left
-        media_width: fifty
       - title: Phase 3
         subtitle: Release our own adult platform
         content: >
