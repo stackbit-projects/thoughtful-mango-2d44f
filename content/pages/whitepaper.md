@@ -130,8 +130,7 @@ sections:
     type: features_section
   - section_id: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
