@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Whitepaper
-    subtitle: Fantasy Whitepaper 1.0
+    subtitle: Fantasy Hotpaper 1.0
     align: center
     padding_top: medium
     padding_bottom: none
