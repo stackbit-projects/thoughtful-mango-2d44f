@@ -102,7 +102,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
