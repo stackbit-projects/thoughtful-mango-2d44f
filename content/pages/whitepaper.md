@@ -10,9 +10,7 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     features:
-      - content: >
-          ![](/\_static/app-assets/images/marvelous-zucchini.jpg)![](/\_static/app-assets/images/0002.jpg)![](/\_static/app-assets/images/0003.jpg)
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
