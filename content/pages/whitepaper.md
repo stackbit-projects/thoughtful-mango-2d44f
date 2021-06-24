@@ -131,7 +131,6 @@ sections:
   - section_id: lorem-ipsum
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         media_position: top
