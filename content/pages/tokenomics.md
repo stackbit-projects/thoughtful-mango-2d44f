@@ -12,7 +12,6 @@ sections:
         align: center
         type: feature
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
