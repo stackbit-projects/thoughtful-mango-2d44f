@@ -44,9 +44,6 @@ sections:
           ![](/\_static/app-assets/images/energetic-lavender.jpg)![](/\_static/app-assets/images/0005.jpg)![](/\_static/app-assets/images/0006.jpg)![](/\_static/app-assets/images/0007.jpg)![](/\_static/app-assets/images/0008.jpg)![](/\_static/app-assets/images/0009.jpg)![](/\_static/app-assets/images/0010.jpg)![](/\_static/app-assets/images/smiling-basil.jpg)
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
