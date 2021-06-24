@@ -183,8 +183,7 @@ sections:
     type: features_section
   - section_id: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
