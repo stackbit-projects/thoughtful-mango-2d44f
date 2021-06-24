@@ -13,8 +13,6 @@ sections:
         type: feature
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: |
-          *
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
