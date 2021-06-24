@@ -9,7 +9,6 @@ sections:
     padding_bottom: none
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
