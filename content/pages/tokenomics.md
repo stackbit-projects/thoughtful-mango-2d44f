@@ -11,8 +11,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - title: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
