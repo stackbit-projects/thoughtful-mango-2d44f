@@ -16,7 +16,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/royal-aluminum.jpg
+        image: /images/groovy-paprika.jpg
     feature_padding_vert: large
     align: center
     padding_top: medium
