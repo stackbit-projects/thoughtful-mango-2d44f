@@ -11,7 +11,6 @@ sections:
   - section_id: lorem-ipsum
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           ![](/\_static/app-assets/images/marvelous-zucchini.jpg)![](/\_static/app-assets/images/0002.jpg)![](/\_static/app-assets/images/0003.jpg)
         actions: []
