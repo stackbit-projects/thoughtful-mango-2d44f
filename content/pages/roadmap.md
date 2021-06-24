@@ -11,9 +11,6 @@ sections:
     features:
       - title: Phase 3
         subtitle: Release our own adult platform
-        content: >
-          Disrupt the adult industry online. Onboarding 20+ models. Advanced
-          marketing. Fantasy Mobile App
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
