@@ -129,7 +129,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "\\*\\*\"ATTENTION GUYS\" \\*\\*\n\n###### **OUR OFFICIAL TELEGRAM IS ** <https://t.me/fantasycoinofficial>&#xA;**OUR OFFICIAL TWITTER IS** <https://twitter.com/Fantasycoin_>\n",
+        "anncmnt_content": "\\*\\*\"ATTENTION GUYS\" \\*\\*\n\n###### &#xA;**OUR OFFICIAL TWITTER IS** <https://twitter.com/Fantasycoin_>\n\n***OUR OFFICIAL TELEGRAM IS***  <https://t.me/fantasycoinofficial>\n\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
