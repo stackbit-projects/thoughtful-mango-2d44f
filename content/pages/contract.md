@@ -10,7 +10,7 @@ sections:
     background_image: /images/hot7.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: SMART CONTRACT ADDRESS
     features: []
     feature_padding_vert: medium
     align: center
