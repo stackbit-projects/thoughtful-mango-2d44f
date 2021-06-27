@@ -13,16 +13,7 @@ sections:
     features:
       - content: >
           <https://bscscan.com/address/0x0c10D4E1e39e46af65a97aC20c75967365F1Cfb2#code>
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
