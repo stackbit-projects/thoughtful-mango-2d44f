@@ -14,17 +14,8 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          <https://bscscan.com/address/0x0c10D4E1e39e46af65a97aC20c75967365F1Cfb2#code>
         actions:
           - label: lorem-ipsum
             url: '#'
