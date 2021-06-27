@@ -9,7 +9,7 @@ sections:
     background_image_opacity: 50
     background_image: /images/hot7.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: SMART CONTRACT ADDRESS
     subtitle: SMART CONTRACT ADDRESS
     features:
       - content: >
