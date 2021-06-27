@@ -1,5 +1,5 @@
 ---
-title: About
+title: SMART CONTRACT ADDRESS
 sections:
   - type: hero_section
     title: Fantasy Smart Contract
