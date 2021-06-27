@@ -10,7 +10,6 @@ sections:
     background_image: /images/hot7.jpg
   - section_id: lorem-ipsum
     title: SMART CONTRACT ADDRESS
-    subtitle: SMART CONTRACT ADDRESS
     features:
       - content: >
           <https://bscscan.com/address/0x0c10D4E1e39e46af65a97aC20c75967365F1Cfb2#code>
