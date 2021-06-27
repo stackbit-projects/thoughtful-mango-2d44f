@@ -13,7 +13,6 @@ sections:
     subtitle: SMART CONTRACT ADDRESS
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           <https://bscscan.com/address/0x0c10D4E1e39e46af65a97aC20c75967365F1Cfb2#code>
         actions:
