@@ -3,7 +3,7 @@ title: SMART CONTRACT ADDRESS
 sections:
   - type: hero_section
     title: Fantasy Smart Contract
-    subtitle: Contract 1.0
+    subtitle: BSC
     align: center
     background_color: primary
     background_image_opacity: 50
