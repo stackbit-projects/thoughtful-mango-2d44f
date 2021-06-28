@@ -34,6 +34,9 @@ sections:
         align: left
         type: feature
         image: /images/super-mustard.jpg
+        content: >
+          FOR PRIVATE SALE WHITELIST CLICK
+          [HERE](https://t.me/fantasycoinofficial)
     feature_padding_vert: medium
     align: center
     padding_top: medium
