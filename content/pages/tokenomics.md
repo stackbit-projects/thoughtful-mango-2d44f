@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     features:
       - content: |
-          ![](/\_static/app-assets/images/marvelous-ant.png)
+          ![](/\_static/app-assets/images/FANTASY%20WHITEPAPER%20-07.jpg)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
