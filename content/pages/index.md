@@ -51,6 +51,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/super-mustard.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
