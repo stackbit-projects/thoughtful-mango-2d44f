@@ -48,7 +48,6 @@ sections:
     type: features_section
   - type: features_section
     title: Earn $BNB by holding $FSY
-    subtitle: Build Your Portfolio
     features:
       - title: Benefits of holding Fantasy
         subtitle: 'Join journey this WILL be a WILD one! '
