@@ -99,7 +99,6 @@ sections:
         type: feature
         image: /images/festive-tomato.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
