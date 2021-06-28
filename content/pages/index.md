@@ -26,7 +26,6 @@ sections:
     background_image: /images/hot3.jpg
     background_image_opacity: 50
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     features:
       - actions: []
         image_alt: lorem-ipsum
