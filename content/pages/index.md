@@ -71,6 +71,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/incredible-artichoke.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
