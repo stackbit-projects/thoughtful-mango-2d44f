@@ -52,8 +52,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        content: |
+      - content: |
           ![](/\_static/app-assets/images/majestic-strawberry.jpg)
         actions: []
         image_alt: lorem-ipsum
