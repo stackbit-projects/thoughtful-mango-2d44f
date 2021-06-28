@@ -96,7 +96,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/marvelous-basil.jpg
+        image: /images/marvelous-olive.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
