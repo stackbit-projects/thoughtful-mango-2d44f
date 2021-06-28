@@ -34,7 +34,6 @@ sections:
         align: left
         type: feature
         image: /images/super-mustard.jpg
-        subtitle: PRIVATE SALE
     feature_padding_vert: medium
     align: center
     padding_top: medium
