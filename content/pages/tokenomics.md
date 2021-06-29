@@ -3,14 +3,6 @@ title: Tokenomics
 sections:
   - section_id: lorem-ipsum
     features:
-      - content: |
-          ![](/\_static/app-assets/images/FANTASY%20WHITEPAPER%20-07.jpg)
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
       - actions: []
         image_alt: lorem-ipsum
         media_position: top
