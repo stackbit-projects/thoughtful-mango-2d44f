@@ -123,7 +123,8 @@
                 "has_icon": true,
                 "icon": "facebook",
                 "icon_position": "center",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             }
         ],
         "content": "&copy; Fantasy. All rights reserved."
