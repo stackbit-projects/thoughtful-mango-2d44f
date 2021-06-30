@@ -108,7 +108,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "www.twitter.com/fantasycoin_",
+                "url": "https://www.twitter.com/fantasycoin_",
                 "style": "primary",
                 "has_icon": true,
                 "icon": "twitter",
