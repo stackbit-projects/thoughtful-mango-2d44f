@@ -118,7 +118,7 @@
             {
                 "label": "FACEBOOK",
                 "url": "www.facebook.com/fantasytoken",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "facebook",
                 "icon_position": "center",
