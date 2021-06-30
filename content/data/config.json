@@ -109,7 +109,7 @@
             {
                 "label": "Twitter",
                 "url": "www.twitter.com/fantasycoin_",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "center",
