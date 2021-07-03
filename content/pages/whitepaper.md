@@ -50,9 +50,7 @@ sections:
     type: features_section
   - section_id: lorem-ipsum
     features:
-      - content: |
-          ![](/\_static/app-assets/images/majestic-strawberry.jpg)
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
