@@ -9,7 +9,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/charming-goose.jpg
+        image: /images/20210703_170058_0006.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
