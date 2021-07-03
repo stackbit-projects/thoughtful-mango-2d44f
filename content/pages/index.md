@@ -26,17 +26,7 @@ sections:
     background_image: /images/hot3.jpg
     background_image_opacity: 50
   - section_id: lorem-ipsum
-    features:
-      - actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-        image: /images/super-mustard.jpg
-        content: >
-          FOR PRIVATE SALE WHITELIST CLICK
-          [HERE](https://t.me/fantasycoinofficial)
+    features: []
     feature_padding_vert: medium
     align: center
     padding_top: medium
