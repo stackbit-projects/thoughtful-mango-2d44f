@@ -12,7 +12,7 @@ sections:
       - image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-        image: /images/smart-onion.jpg
+        image: /images/FANTASY WHITEPAPER(1)-12.jpg
   - type: cta_section
     title: Want to know more?
     content: |
