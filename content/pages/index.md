@@ -33,7 +33,12 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - content: "# **TO PARTICIPATE ON DX SALE PRESALE CLICK **[**HERE**](https://dxsale.app/app/v2\\_9/defipresale?saleID=234\\&chain=BSC)\n\nDX SALE PRESALE STARTING ON \U0001F525  4 JULY 2021 @ 00:06\n\n\U0001F60E TOTAL SUPPLY : 1,000,000,000,000,000\n\nSoftcap\n\n✅200 BNB\n\nHardcap\n\n✅400 BNB\n\nPresale Rate\U0001F4A6\n\n475000000000.0000 FSY per BNB  presale\n\n450000000000.0000 FSY per BNB  pancake listing\n\nDate⌛️\n\nPresale Start Time  4 Jul 2021 at 00:06\n\nPresale End Time  10 Jul 2021 at 08:16\n\nPRESALE DURATION | 7 DAYS\n\nLINKS : https://dxsale.app/app/v2\\_9/defipresale?saleID=234\\&chain=BSC\n\n*   ![](/\\_static/app-assets/images/20210703\\_182125\\_0000.png)\n"
+      - content: >
+          DX SALE
+          [PRESALE](https://dxsale.app/app/v2\_9/defipresale?saleID=234\&chain=BSC)
+
+
+          *   ![](/\_static/app-assets/images/20210703\_182125\_0000.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
