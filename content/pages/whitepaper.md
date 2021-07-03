@@ -33,7 +33,6 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: |
           ![](/\_static/app-assets/images/pleasant-sun.png)
         actions: []
