@@ -12,7 +12,10 @@ sections:
     title: SMART CONTRACT ADDRESS
     features:
       - content: >
-          <https://bscscan.com/address/0x0c10D4E1e39e46af65a97aC20c75967365F1Cfb2#code>
+          #
+          [](https://bscscan.com/token/0xF48cA4cE6A1057e9f500FE152DA0Eb1182966E88)[**CLICK
+          HERE FOR SMART CONTRACT
+          ADDRESS**](https://bscscan.com/token/0xF48cA4cE6A1057e9f500FE152DA0Eb1182966E88)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
